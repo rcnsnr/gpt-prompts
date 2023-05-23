@@ -17,4 +17,4 @@
 > I am trying to decide if I should [insert decision]. Give me a list of pros and cons that will help me decide why I should or shouldn't make this decision.
 
 - Personal Introduction Text Evaluation
-> act as a hiring manager and evaluate the text below as my personal introduction text and give me feedback:
+> Act as a hiring manager and evaluate the text below as my personal introduction text and give me feedback:
